@@ -25,3 +25,4 @@ npm install @jiaminghi/data-view 2.引用
 import dataV from '@jiaminghi/data-view'
 Vue.use(dataV)
 # 大屏
+![火狐截图_2021-05-07T07-31-50 591Z](https://user-images.githubusercontent.com/30033591/117414141-62cce280-af49-11eb-8c46-db4b2962011a.png)
